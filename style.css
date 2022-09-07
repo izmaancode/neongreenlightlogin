@@ -95,6 +95,7 @@ img {
   padding-left: 18px;
   padding-right: 18px;
   cursor: pointer;
+  box-shadow: 0 75px 90px rgb(71, 216, 112, 0.2);
 }
 .button:hover {
   background-color: rgb(44, 190, 85);
